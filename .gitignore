@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__
+*.json
+.ipynb_checkpoints/
+*.npy
+*.csv
+*.npz
+my_first_model
+my_second_model
+_old/
